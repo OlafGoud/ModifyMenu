@@ -1,0 +1,26 @@
+api: adsf
+api-version: 1.12.2
+name: ModifyMenu
+version: 1,0
+main: git.olafgoud.ModifyMenuMain
+commands:
+  modifyatt:
+    usage: /modifyatt
+  modifygetset:
+    usage: /modifygetset
+  modifyname:
+    usage: /modifyname
+  modifyglow:
+    usage: /modifyglow
+  modifylore:
+    usage: /modifylore
+  modifymore:
+    usage: /modifymore
+  modifyaddtag:
+    usage: /modifyaddtag
+  modifysetcolor:
+    usage: /modifysetcolor
+  modifycanbreak:
+    usage: /modifycanbreak
+  modifyhideflags:
+    usage: /modifyhideflags
